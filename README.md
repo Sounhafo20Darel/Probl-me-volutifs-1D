@@ -1,4 +1,4 @@
-# Probl-me-volutifs1D
+# Probleme-volutifs1D
 # Equation de la chaleur appliquée à Black-Scholes
 
 Résolution de l'équation de Black-Scholes par transformation en équation de la chaleur et différences finies.
